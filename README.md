@@ -1,5 +1,6 @@
-FreeDcam
+FreeDcam A21
 ========
+This version is modified to work better on the Galaxy A21, which's API supports up to ISO 25000
 * [Build](#build)
 * [Supported Apis](#supported-apis)
 * [Projects used by FreeDcam](#projects-used-by-freedcam)
